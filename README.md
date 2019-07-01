@@ -1,5 +1,5 @@
 # Wine-Quality
-Validation importance of features describing wine quality 
+Validation importance of features describing wine quality \n
 Validation best accuracy for set of features in range from 1 to 11
 
 Please check data/wines.names for dataset description
